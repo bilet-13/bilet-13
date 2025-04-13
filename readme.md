@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 🎓 B.S. in Computer Science, National Yang Ming Chiao Tung University <br/>
 🌱 Previous AI engineer(LLM,local server, inference, Hugging Face) <br/>
 
+My profile: [bilet-13.github.io/](bilet-13.github.io/)
+
 ### Languages & Tools
 <p>
   <img src="http://img.shields.io/badge/-Swift-F05032?style=flat&logo=swift&logoColor=FFFFFF">
