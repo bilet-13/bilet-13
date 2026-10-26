@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://www.linkedin.com/in/chun-wei-liao/"><img src="https://img.shields.io/badge/linkedin.com%2Fin%2Fchun--wei--liao-0A66C2?style=flat" alt="linkedin.com/in/chun-wei-liao" /></a>
+<a href="https://www.linkedin.com/in/chun-wei-liao/"><img src="https://img.shields.io/badge/linkedin.com%2Fin%2Fchun--wei--liao-0A66C2?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="linkedin.com/in/chun-wei-liao" /></a>
 <a href="https://bilet-13.github.io/"><img src="https://img.shields.io/badge/bilet--13.github.io-24292F?style=flat&logo=githubpages&logoColor=white" alt="bilet-13.github.io" /></a>
 <a href="https://drive.google.com/file/d/1_d8tMKZI7DS37Rv8II88Yesl6Y6srVCY/view?usp=sharing"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-4285F4?style=flat&logo=googledrive&logoColor=white" alt="Resume" /></a>
 <img src="https://img.shields.io/badge/Seattle,%20WA-34A853?style=flat&logo=googlemaps&logoColor=white" alt="Seattle, WA" />
@@ -9,11 +9,11 @@
 
 Hi, I'm **William (Chun-Wei) Liao** — looking for **SWE New Grad roles starting 2027**, backend / infrastructure.
 
-🎓 ![University of Washington](https://img.shields.io/badge/University%20of%20Washington-4B2E83?style=for-the-badge&logoColor=white) **M.S. Electrical & Computer Engineering** · expected **March 2027**
-🎓 **M.S. Computer Science** · National Taiwan University
+🎓 **M.S. Electrical & Computer Engineering** · University of Washington 💜🐺 · expected **March 2027**<br>
+🎓 **M.S. Computer Science** · National Taiwan University<br>
 🎓 **B.S. Computer Science** · National Yang Ming Chiao Tung University
 
-🛠️ Software Engineer Intern @ **Chainguard** 🐙 — built Go backend services on GCP: cut a vulnerability-reporting pipeline's BigQuery cost by 99.88%, dropped p99 API latency from 55s to 2.8s
+🛠️ Software Engineer Intern @ **Chainguard** 🐙 · **Jun – Sep 2026** — built Go backend services on GCP, cutting a vulnerability-reporting pipeline's BigQuery cost by **99.88%** and dropping p99 API latency from **55s to 2.8s**
 
 💼 **~2 years of professional experience** — Software Engineer @ Perfect Corp. (iOS/Flutter, 10k+ DAU) · AI Engineer @ Bigobject (LLM fine-tuning)
 
